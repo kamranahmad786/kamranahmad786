@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Food Munch Website(course project)](kamranfoodmunch.ccbp.tech)
 
-- 🌱 I’m currently learning **Full stack , Html , Css , JavaScript , Python , C++ , BootStrap , React Js , Nodes Js ,etc.**
+- 🌱 I’m currently learning **Full stack development , Html , Css , JavaScript , Python , C++ , BootStrap , React Js , Nodes Js ,etc.**
 
 - 💬 Ask me about **Web Development , Python , html , css , javaScript**
 
