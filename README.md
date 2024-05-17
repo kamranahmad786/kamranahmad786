@@ -1,5 +1,5 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamran+Ahmad;A+Passionate+full+stack+developer+;Coding+enthusiast+;Problem+solver" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamran+Ahmad;A+Passionate+full+stack+developer👨‍💻+;Coding+enthusiast+;Problem+solver" alt="Typing SVG" /></a></h1>
 <h3 align="center">A passionate full stack developer and coding enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
