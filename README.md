@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@mdkamranahmad13" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdkamranahmad13" height="30" width="40" /></a>
+<a href="https://twitter.com/@mdkamranahmad13" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mdkamranahmad13" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mdkamranahmad/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdkamranahmad/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/profile.php?id=100008983473183" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100008983473183" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/kamran_ahmad.092/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/kamran_ahmad.092/" height="30" width="40" /></a>
