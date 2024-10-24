@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad786&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad786" /> </p>
 
-<p align="left"> <a href="https://twitter.com/@mdkamranahmad13" target="blank"><img src="https://img.shields.io/twitter/follow/@mdkamranahmad13?logo=twitter&style=for-the-badge" alt="@mdkamranahmad13" /></a> </p>
 
 # 💫About Me :
 🔭 I’m currently working on https://orderwithfm.ccbp.tech/
