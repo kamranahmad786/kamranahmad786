@@ -30,7 +30,7 @@
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=kamranahmad786&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
+## ✨Badges
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
