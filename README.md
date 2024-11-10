@@ -60,6 +60,19 @@
 </div>
 </details>
 
+<details>	
+ <summary><b>HACKTOBERFEST(24) Badges 🪶</b></summary><br>
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://firebasestorage.googleapis.com/v0/b/fir-project-start-11f6f.appspot.com/o/HacktoberFestReg.png?alt=media&token=0a2c423f-bbd1-4e62-abbd-42375f20cf96" width="100px" height="100px" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-project-start-11f6f.appspot.com/o/Contro1.png?alt=media&token=7194c4c0-84f3-4200-9ce7-8fc712d41708" width="100px" height="100px" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-project-start-11f6f.appspot.com/o/Contro2.png?alt=media&token=2041342c-7ec5-4267-9b4e-97f4ec5c4090" width="100px" height="100px" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-project-start-11f6f.appspot.com/o/contro3.png?alt=media&token=2a68eca4-eef5-4b49-9953-3a2734f9cba3" width="100px" height="100px" />
+  <img src="https://firebasestorage.googleapis.com/v0/b/fir-project-start-11f6f.appspot.com/o/Contro4.png?alt=media&token=878871fa-b9cd-44bf-8962-caac3e448163" width="100px" height="100px" />
+</div>
+</details>
+
+
+
 
 ## ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
