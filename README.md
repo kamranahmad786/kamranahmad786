@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad786&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad786" /> </p>
 
 
-# 💫About Me:
+# 💫About Me
 🔭 I’m currently working on https://orderwithfm.ccbp.tech/
 
 🌱 I’m currently learning Full stack development , Html , Css , JavaScript , Python , C++ , BootStrap , React Js , Nodes Js ,etc.
