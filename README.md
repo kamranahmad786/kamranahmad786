@@ -1,14 +1,11 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamran+Ahmad;A+Passionate+full+stack+developer👨‍💻+;Coding+enthusiast+;Problem+solver+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
-
-<h3 align="center">A passionate full stack developer and coding enthusiast</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"> -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamranahmad786&label=Profile%20views&color=0e75b6&style=flat" alt="kamranahmad786" /> </p>
 
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
-# 💫About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
+
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kamran+Ahmad;A+Passionate+full+stack+developer👨‍💻+;Coding+enthusiast+;Problem+solver+;Excited+to+solve+real-world+problem+;" alt="Typing SVG" /></a></h1>
+💫About Me
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1200"> 
 🔭 I’m currently working on https://orderwithfm.ccbp.tech/
 
